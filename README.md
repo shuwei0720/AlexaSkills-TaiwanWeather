@@ -84,5 +84,5 @@ function getMyApi(cityData){
 -------------
 ### [YouTube Demo](https://youtu.be/-lzPmnEEjec)
 
-[<img src="struct.png">](https://youtu.be/-lzPmnEEjec)
+<a href="https://youtu.be/-lzPmnEEjec" target="_blank">[<img src="youtube_demo.png">]</a>
 
