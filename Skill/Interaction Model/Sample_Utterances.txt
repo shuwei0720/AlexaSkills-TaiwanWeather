@@ -1,0 +1,3 @@
+CityIntentWithSlots {whichcity} city
+CityIntentWithSlots {whichcity} temperature
+CityIntentWithSlots {whichcity}

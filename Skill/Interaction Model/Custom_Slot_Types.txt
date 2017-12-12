@@ -1,0 +1,18 @@
+Type: LIST_OF_ITEMS
+Values:
+New Taipei
+Taipei
+Kaohsiung
+Taoyuan
+Taichung
+Tainan
+Changhua
+Yilan
+Hsinchu
+Hualien
+Keelung
+Pingtung
+Taitung
+Nantou
+Budai
+Dounan
